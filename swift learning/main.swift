@@ -22,3 +22,13 @@ strings.emptyStrings()
 strings.mutability()
 strings.chars()
 strings.indexes()
+strings.insert()
+strings.compare()
+
+let arrays = CollectionsArrays()
+arrays.initialization()
+arrays.valuesAccess()
+
+let sets = CollectionsSets()
+sets.initialization()
+
