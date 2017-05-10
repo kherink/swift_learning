@@ -8,7 +8,7 @@ import Foundation
 public class BasicOperators {
 
     init() {
-        print("====== BasicOperators ======")
+        print("\n====== BasicOperators ======\n")
     }
 
     func comparing() {

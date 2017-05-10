@@ -31,4 +31,9 @@ arrays.valuesAccess()
 
 let sets = CollectionsSets()
 sets.initialization()
+sets.sorting()
+sets.basicOps()
+sets.membershipAndEquality()
 
+let dicts = CollectionsDictionaries()
+dicts.initialization()

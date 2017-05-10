@@ -8,10 +8,11 @@ import Foundation
 class CollectionsArrays {
 
     init() {
-        print("====== CollectionsSets: Arrays ======")
+        print("\n====== CollectionsSets: Arrays ======\n")
     }
 
     func initialization() {
+        print("\n------ initialization ------\n")
         var someInts = [Int]()
         print("someInts \(someInts) contains \(someInts.count) elements")
 
@@ -36,6 +37,7 @@ class CollectionsArrays {
     }
 
     func valuesAccess() {
+        print("\n------ valuesAccess ------\n")
         var shopping:[String] = ["eggs", "sugar", "milk"]
         print(shopping)
         shopping += ["flour"]

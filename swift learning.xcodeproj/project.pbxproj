@@ -12,6 +12,7 @@
 		D37773F18B14D10F36B358F0 /* collections_arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = D377717631FFFED98AD1D7B5 /* collections_arrays.swift */; };
 		D37775A7B9213D2E97D9C493 /* basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37774F9F9F8D64C88828439 /* basics.swift */; };
 		D3777634AD9C00B86C96039C /* collections_sets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D377787CA25B19C2E2C90685 /* collections_sets.swift */; };
+		D3777B33709513FD9FBDABDC /* collections_dictionaries.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3777B5801229C1BC6B0F8E7 /* collections_dictionaries.swift */; };
 		D3777F807AAB1552E7D9A39A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D377723D0A4C0F221CC621D2 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		D37777781AA92C97B4D771E5 /* swift learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift learning"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D377786008396E3CEADFEB39 /* strings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = strings.swift; sourceTree = "<group>"; };
 		D377787CA25B19C2E2C90685 /* collections_sets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = collections_sets.swift; sourceTree = "<group>"; };
+		D3777B5801229C1BC6B0F8E7 /* collections_dictionaries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = collections_dictionaries.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				D377786008396E3CEADFEB39 /* strings.swift */,
 				D377717631FFFED98AD1D7B5 /* collections_arrays.swift */,
 				D377787CA25B19C2E2C90685 /* collections_sets.swift */,
+				D3777B5801229C1BC6B0F8E7 /* collections_dictionaries.swift */,
 			);
 			path = "swift learning";
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				D37773C36A96D4F47B00679D /* strings.swift in Sources */,
 				D37773F18B14D10F36B358F0 /* collections_arrays.swift in Sources */,
 				D3777634AD9C00B86C96039C /* collections_sets.swift in Sources */,
+				D3777B33709513FD9FBDABDC /* collections_dictionaries.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

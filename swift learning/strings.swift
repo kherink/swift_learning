@@ -8,7 +8,7 @@ import Foundation
 public class Strings {
 
     init() {
-        print("====== Strings ======")
+        print("\n====== Strings ======\n")
     }
 
     func emptyStrings() {

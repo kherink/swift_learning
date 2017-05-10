@@ -4,7 +4,7 @@ import Foundation
 public class Basics {
 
     init() {
-        print("====== Basics ======")
+        print("\n====== Basics ======\n")
     }
 
     func tuples() {
